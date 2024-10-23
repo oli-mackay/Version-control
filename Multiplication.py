@@ -1,4 +1,4 @@
 # Code to multiply two variables. 
 
-def times(a, b):
+def multiply(a, b):
   return a * b
