@@ -1,1 +1,2 @@
+# Added documentation.
 Just create a new file to get away from the startup page.
